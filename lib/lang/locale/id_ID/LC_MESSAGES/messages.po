@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Senayan3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-14 06:19+0700\n"
-"PO-Revision-Date: 2018-12-21 08:41+0700\n"
+"PO-Revision-Date: 2020-06-20 11:07+0700\n"
 "Last-Translator: Arif Syamsudin Budi W. <buitenzorg812@yahoo.com>\n"
 "Language-Team: Arie Nugraha; Hendro Wicaksono; Wardiyono <dicarve@yahoo.com; "
 "hendrowicaksono@yahoo.com; wynerst@gmail.com>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_ngettext:1,2\n"
 "X-Poedit-Basepath: ../../../../..\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: admin/AJAX_check_id.php:21
@@ -129,7 +129,7 @@ msgid ""
 "application won't be able to create image thumbnail and barcode."
 msgstr ""
 "Ekstensi <strong>PHP GD</strong> belum terpasang. Pastikan PHP GD sudah "
-"terpasang atau aplikasi tidak dapat membuat gambar mini dan barkod"
+"terpasang atau aplikasi tidak dapat membuat gambar mini dan barkod."
 
 #: admin/default/home.php:49
 msgid ""
@@ -312,7 +312,7 @@ msgstr "Pinjam"
 #: admin/modules/serial_control/kardex.php:47
 #: admin/modules/serial_control/subscription.php:49
 msgid "You are not authorized to view this section"
-msgstr "Anda tidak memiliki wewenang untuk masuk ke bagian ini!"
+msgstr "Anda tidak memiliki wewenang untuk masuk ke bagian ini"
 
 #: admin/default/session_check.inc.php:57
 msgid "Your Login Session has already timeout!"
@@ -720,7 +720,7 @@ msgstr "Maksimum"
 #: admin/modules/bibliography/printed_card.php:302
 #: admin/modules/membership/member_card_generator.php:281
 msgid "records can be printed at once. Currently there is"
-msgstr "Cantuman bisa dicetak pada saat bersamaan. Saat ini terdapat"
+msgstr "cantuman bisa dicetak pada saat bersamaan. Saat ini terdapat"
 
 #: admin/modules/bibliography/dl_print.php:238
 #: admin/modules/bibliography/item_barcode_generator.php:230
@@ -941,7 +941,7 @@ msgstr "Anda yakin akan menghapus pengarah yang dipilih?"
 #: simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:117
 #: simbio2/simbio_GUI/form_maker/simbio_form_table_AJAX.inc.php:115
 msgid "Once deleted, it can't be restored!"
-msgstr "Jika terhapus, data tidak dapat dikembalikan."
+msgstr "Jika terhapus, data tidak dapat dikembalikan!"
 
 #: admin/modules/bibliography/iframe_author.php:82
 msgid "Author succesfully removed!"
@@ -1379,7 +1379,7 @@ msgid ""
 "explain more details about an item e.g. scale within a map, running time in "
 "a movie dvd."
 msgstr ""
-"Menjelaskan detail lebih mendalam tentang suatu eksemplar, misal skala peta, "
+"menjelaskan detail lebih mendalam tentang suatu eksemplar, misal skala peta, "
 "waktu putar DVD."
 
 #: admin/modules/bibliography/index.php:613
@@ -4653,7 +4653,7 @@ msgstr "dari kata kunci"
 
 #: admin/modules/membership/member_base_lib.inc.php:189
 msgid "days"
-msgstr ""
+msgstr "hari"
 
 #: admin/modules/membership/member_base_lib.inc.php:209
 msgid "Overdue Notice for Member {member_name} ({member_email})"
@@ -7777,7 +7777,7 @@ msgstr "Data kosong"
 #: template/default/index_template.inc.php:112
 #: template/lightweight/index_template.inc.php:112
 msgid "Please try again"
-msgstr ""
+msgstr "Silahkan coba lagi"
 
 #: template/default-dz/index_template.inc.php:131
 #: template/default/index_template.inc.php:130
